@@ -1,0 +1,11 @@
+{
+  "name": "game",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix sea-knot-simulator run dev",
+    "build": "npm --prefix sea-knot-simulator run build",
+    "lint": "npm --prefix sea-knot-simulator run lint",
+    "preview": "npm --prefix sea-knot-simulator run preview"
+  }
+}
